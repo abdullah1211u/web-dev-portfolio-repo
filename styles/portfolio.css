@@ -105,7 +105,12 @@ main{
 }
 .about-info{
   text-align: center;
-  
+}
+.info-descrip{
+  margin-top: 0px;
+}
+.info-title{
+  margin-bottom: 5px;
 }
 
 
