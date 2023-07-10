@@ -102,6 +102,7 @@ main{
 .about-info-container{
   display: flex;
   justify-content: space-around;
+
 }
 .about-info{
   text-align: center;
@@ -111,6 +112,9 @@ main{
 }
 .info-title{
   margin-bottom: 5px;
+}
+#what-i-do-descrip{
+  padding: 30px 150px;
 }
 
 
